@@ -1,0 +1,42 @@
+# Site settings
+title: 长岛悠然渔舍
+email: 305692039@qq.com
+url: https://cdyrys.github.io
+description: "悠然渔舍，世外桃源"
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: cdyrys.com
+  location: 位置
+  social: 社交网络
+  credits: 联系
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: weibo
+    url: http://weibo/xx
+  - title: weixin
+    url: #
+  - title: qq
+    url: #
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 中国山东长岛
+  - line: 南长山岛后沟村49号的渔家小院
+
+# Credits content
+credits: '联系电话：15653885896    15564521277'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
